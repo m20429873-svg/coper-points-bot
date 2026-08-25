@@ -1,0 +1,12 @@
+{
+  "name": "coper-points-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1",
+    "better-sqlite3": "^12.4.1"
+  }
+}
